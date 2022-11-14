@@ -1,7 +1,7 @@
-# alone-2
+# alone
 Alan Walker Alone
 
-words
+lyrics
 
 Lost in your mind
 I wanna know
